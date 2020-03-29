@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <itinerary> = sil ay t ih n eh r iy [ sil ];
